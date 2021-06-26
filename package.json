@@ -1,0 +1,20 @@
+{
+  "name": "browser-stack-api-wrapper",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "private": false,
+  "engines": {
+    "node": ">=10.0.x"
+  }
+}
